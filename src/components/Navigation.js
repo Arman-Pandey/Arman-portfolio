@@ -1,4 +1,5 @@
 import React from "react";
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import profileImg from "../Photo/IMG_20200720_084311.jpg";
 
 
