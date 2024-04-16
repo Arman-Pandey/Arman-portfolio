@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Arman-portfolio/static/css/main.14cdf847.css",
-    "main.js": "/Arman-portfolio/static/js/main.3216cb82.js",
+    "main.js": "/Arman-portfolio/static/js/main.af012479.js",
     "static/media/IMG_20200720_084311.jpg": "/Arman-portfolio/static/media/IMG_20200720_084311.eb034769bf11aca517a1.jpg",
     "static/media/Screenshot 2024-03-04 125809.png": "/Arman-portfolio/static/media/Screenshot 2024-03-04 125809.8880e14b11e22bd4939b.png",
     "index.html": "/Arman-portfolio/index.html",
     "main.14cdf847.css.map": "/Arman-portfolio/static/css/main.14cdf847.css.map",
-    "main.3216cb82.js.map": "/Arman-portfolio/static/js/main.3216cb82.js.map"
+    "main.af012479.js.map": "/Arman-portfolio/static/js/main.af012479.js.map"
   },
   "entrypoints": [
     "static/css/main.14cdf847.css",
-    "static/js/main.3216cb82.js"
+    "static/js/main.af012479.js"
   ]
 }
