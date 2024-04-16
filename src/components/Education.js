@@ -49,7 +49,7 @@ export default function Education() {
               <div className="flex-grow-1">
                 <h3 className="mb-0">AKS University Satna</h3>
                 <div className="subheading mb-3">Diploma In Civil Engineering</div>
-                <p> I have achieved a <b>First Division with Honors</b> proficiency in these modules.</p>
+                <p> I have achieved a <b>First Division</b> proficiency in these modules.</p>
               </div>
               <div className="flex-shrink-0">
                 <span className="text-primary">2014 - 2017</span>
@@ -61,7 +61,7 @@ export default function Education() {
               <div className="flex-grow-1">
                 <h3 className="mb-0">St Michaels Higher Secondary School, Satna</h3>
                 <div className="subheading mb-3">Secondary School Certificate (SSC)</div>
-                <p> I have achieved a <b>First Division with Honors</b> proficiency in these modules.</p>
+                // <p> I have achieved a <b>First Division with Honors</b> proficiency in these modules.</p>
               </div>
               <div className="flex-shrink-0">
                 <span className="text-primary">2013 - 2014</span>
